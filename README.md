@@ -1,7 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Krupa2205&color=blueviolet)👀
 
 
-<img width="2451" height="664" alt="github-header-banner" src="https://github.com/user-attachments/assets/58cf97f7-0cf8-4505-8553-cf717e8a6d6b" />
+<img width="2451" height="664" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/d91a64a0-d433-4eeb-8c9d-0e4b03e18150" />
+
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=console.log('KeepCoding..😄💻');+const+name+=+'Krupa😁';+let+isDeveloper+=+true;)
 

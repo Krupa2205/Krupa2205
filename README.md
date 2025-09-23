@@ -30,6 +30,7 @@ one line of code at a time. 🚀
 ### 🔗 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kaklotar-k/)
+- 🌐 [Portfolio](https://krupasportfolio.vercel.app/)
 
 ---
 
